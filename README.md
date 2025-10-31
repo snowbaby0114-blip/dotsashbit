@@ -16,7 +16,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,java,php,angular,python,mongo,mysql,express,nodejs,aws,azure)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -32,6 +32,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 - 🌐 Completed Runtime System 2024 - Contributed to open source projects and celebrated the spirit of collaboration.
+<!--
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
@@ -41,7 +42,7 @@ Thanks for stopping by! Let's connect and explore the fascinating world of techn
 
 
 
-<!--
+
 
 Here are some ideas to get you started:
 
