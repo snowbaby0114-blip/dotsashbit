@@ -32,11 +32,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 - 🌐 Completed Runtime System 2024 - Contributed to open source projects and celebrated the spirit of collaboration.
-![GitHub followers](https://img.shields.io/github/followers/thomasgniadek?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/thomasgniadek?style=social)
-![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+
 <!--
 ## 📬 Get in Touch
 
