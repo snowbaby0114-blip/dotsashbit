@@ -15,6 +15,17 @@ I am a Senior Software Engineer with deep expertise in Backend and Frontend deve
 [![My Skills](https://skillicons.dev/icons?i=react,java,php,angular,python,mongo,mysql,express,nodejs,aws,azure,vue)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
+- 🚀 Senior Software Engineer
+  - Design and develop backend or full-stack features using modern frameworks (.NET, Java, Node.js, Python, etc.).
+  - Review and optimize system performance and code quality.
+  - Implement CI/CD pipelines, testing strategies, and secure coding practices.
+  - Collaborate with cross-functional teams to define requirements and translate them into technical solutions.
+  - Mentor junior engineers and lead by example in Agile environments.
+  - Drive improvements in architecture, reliability, and scalability.  - Strong command of at least one core backend language (C#, Java, Python, Go).
+  - Experience with microservices, APIs, and cloud platforms (AWS, Azure, or GCP).
+  - Solid knowledge of databases — SQL and NoSQL.
+  - Testing frameworks (xUnit, Jest, PyTest, etc.) and DevOps tools (Docker, Kubernetes, GitHub Actions, Jenkins).
+  - Familiarity with AI copilots, automation, and LLM-assisted development is a growing advantage.
 
 - 🚀 Full Stack Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
