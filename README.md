@@ -1,4 +1,4 @@
-# Hi, I'm snowbaby! 👋
+# Hi, I'm snow! 👋
 
 I am a Senior Software Engineer with deep expertise in Backend and Frontend development for 10+ years of experience.
 
