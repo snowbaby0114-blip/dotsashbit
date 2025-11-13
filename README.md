@@ -1,38 +1,49 @@
 # Hi, I'm snowbaby! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a Senior Software Engineer with deep expertise in Backend and Frontend development for 10+ years of experience.
 
 ![snowbaby's Stats](https://github-readme-stats.vercel.app/api?username=snowbaby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 🔭 I'm currently pursuing Bachelor of Engineering in Computer Science.
+- 🌐 I am based in Poland. I also enjoy working in international teams.
+- ✍️ Clear responsibilities, learning, solving real problems, and working with a team that enjoys building high-quality systems.
 
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,java,php,angular,python,mongo,mysql,express,nodejs,aws,azure,vue)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
+- 🚀 Senior Software Engineer
+  - Design and develop backend or full-stack features using modern frameworks (.NET, Java, Node.js, Python, etc.).
+  - Review and optimize system performance and code quality.
+  - Implement CI/CD pipelines, testing strategies, and secure coding practices.
+  - Collaborate with cross-functional teams to define requirements and translate them into technical solutions.
+  - Mentor junior engineers and lead by example in Agile environments.
+  - Drive improvements in architecture, reliability, and scalability.  - Strong command of at least one core backend language (C#, Java, Python, Go).
+  - Experience with microservices, APIs, and cloud platforms (AWS, Azure, or GCP).
+  - Solid knowledge of databases — SQL and NoSQL.
+  - Testing frameworks (xUnit, Jest, PyTest, etc.) and DevOps tools (Docker, Kubernetes, GitHub Actions, Jenkins).
+  - Familiarity with AI copilots, automation, and LLM-assisted development is a growing advantage.
 
-- 🚀 Learning Full Stack Web Development
+- 🚀 Full Stack Development
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
+  - Expert of JavaScript such as TypeScript, Vue, Angular, Next, Node and etc,.
+  - Python, Java, Spring Boot, Rust, C++, Docker
+  - AWS, AZure, GCP
 
  ## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
-- 🌐 Completed Runtime System 2024 - Contributed to open source projects and celebrated the spirit of collaboration.
-
+- ☁️ Cloud Computing 2025
+- 🌍 Communication and Connectivity 2024
+- 🤖 Artificial Intelligence and Machine Learning 2024
+- 🏥 Healthcare and Life Sciences 2023
+- 🔒 Cybersecurity 2023
 <!--
 ## 📬 Get in Touch
 
