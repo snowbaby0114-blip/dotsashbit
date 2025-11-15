@@ -2,8 +2,11 @@
 
 I am a Senior Software Engineer with deep expertise in Backend and Frontend development for 10+ years of experience.
 
-![snowbaby's Stats](https://github-readme-stats.vercel.app/api?username=snowbaby&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![snow's Stats](https://github-readme-stats.vercel.app/api?username=snowbaby0114-blip&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true&rank_icon=github)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snowbaby0114-blip&layout=compact&theme=tokyonight&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=snowbaby0114-blip&theme=tokyonight&hide_border=false)
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing Bachelor of Engineering in Computer Science.
@@ -12,7 +15,7 @@ I am a Senior Software Engineer with deep expertise in Backend and Frontend deve
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,java,php,angular,python,mongo,mysql,express,nodejs,aws,azure,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,php,py,mongo,mysql,react,vue,express,nodejs,idea,cpp,cs,dotnet,spring,ubuntu,kotlin,kubernetes,nestjs,nextjs,github,angular,aws,azure,bootstrap)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 - 🚀 Senior Software Engineer
