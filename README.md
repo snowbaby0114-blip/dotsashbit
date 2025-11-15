@@ -2,7 +2,23 @@
 
 I am a Senior Software Engineer with deep expertise in Backend and Frontend development for 10+ years of experience.
 
-![snow's Stats](https://github-readme-stats.vercel.app/api?username=snowbaby0114-blip&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true&rank_icon=github)
+<div style="border: 1px solid #3c3c61; border-radius: 10px; padding: 20px; width: 420px; background: #1a1b27;">
+
+### <span style="color:#9ab5ff;">snow's GitHub Stats</span>
+
+⭐ <strong>Total Stars Earned:</strong>  256  
+⏱️ <strong>Total Commits:</strong>    1,842  
+🔧 <strong>Total PRs:</strong>        314  
+❗ <strong>Total Issues:</strong>     42  
+📦 <strong>Contributed to:</strong>   67  
+
+<br>
+
+<div align="right">
+  <img src="https://img.icons8.com/?size=100&id=62856&format=png&color=4d80ff" width="90"/>
+</div>
+
+</div>
 
 <div style="border: 1px solid #3c3c61; border-radius: 10px; padding: 20px; width: 420px;">
 
