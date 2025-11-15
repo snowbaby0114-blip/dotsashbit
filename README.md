@@ -4,7 +4,22 @@ I am a Senior Software Engineer with deep expertise in Backend and Frontend deve
 
 ![snow's Stats](https://github-readme-stats.vercel.app/api?username=snowbaby0114-blip&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=delabassee&layout=compact&theme=tokyonight&langs_count=10)
+<div style="border: 1px solid #3c3c61; border-radius: 10px; padding: 20px; width: 420px;">
+
+### <span style="color:#9ab5ff;">Most Used Languages</span>
+
+🟦 Python — 30%  
+🟨 JavaScript — 25%  
+🟪 C# — 15%  
+🟩 TypeScript — 10%  
+🟧 Java — 8%  
+🟥 Rust — 5%  
+🟫 PHP — 3%  
+⬛ C++ — 2%  
+🟦 Go — 1%  
+🟩 Ruby — 1%
+
+</div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=snowbaby0114-blip&theme=tokyonight&hide_border=false)
 
