@@ -8,16 +8,9 @@ I am a Senior Software Engineer with deep expertise in Backend and Frontend deve
 
 ### <span style="color:#9ab5ff;">Most Used Languages</span>
 
-🟦 Python — 30%  
-🟨 JavaScript — 25%  
-🟪 C# — 15%  
-🟩 TypeScript — 10%  
-🟧 Java — 8%  
-🟥 Rust — 5%  
-🟫 PHP — 3%  
-⬛ C++ — 2%  
-🟦 Go — 1%  
-🟩 Ruby — 1%
+🟦 Python — 22%  🟨 JavaScript — 20%  🟧 Java — 15%  
+🟩 TypeScript — 15%  🟪 C# — 10% 🟥 Rust — 5%  
+🟫 PHP — 5%  ⬛ C++ — 4%  🟦 Go — 2%  🟩 Ruby — 2% 
 
 </div>
 
