@@ -4,18 +4,7 @@ I am a Senior Software Engineer with deep expertise in Backend and Frontend deve
 
 ![snow's Stats](https://github-readme-stats.vercel.app/api?username=snowbaby0114-blip&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true&rank_icon=github)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=@sophiebits&theme=tokyonight&langs_count=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=snowbaby0114-blip&theme=tokyonight&hide_border=false)
 
