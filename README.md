@@ -4,7 +4,7 @@ I am a Senior Software Engineer with deep expertise in Backend and Frontend deve
 
 ![snow's Stats](https://github-readme-stats.vercel.app/api?username=snowbaby0114-blip&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=@sophiebits&theme=tokyonight&langs_count=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophiebits&theme=tokyonight&langs_count=10)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=snowbaby0114-blip&theme=tokyonight&hide_border=false)
 
