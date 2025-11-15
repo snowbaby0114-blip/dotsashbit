@@ -2,9 +2,7 @@
 
 I am a Senior Software Engineer with deep expertise in Backend and Frontend development for 10+ years of experience.
 
-<div style="display: flex; align-items: center; justify-content: space-between; border: 1px solid #3c3c61; border-radius: 10px; padding: 20px; background: #0d1117;">
 
-<div>
 <span style="color:#9ab5ff; font-size:20px;">snow's GitHub Stats</span>
 
 ⭐ <strong>Total Stars Earned:</strong> 256  
@@ -12,11 +10,6 @@ I am a Senior Software Engineer with deep expertise in Backend and Frontend deve
 🔨 <strong>Total PRs:</strong> 3140  
 ❗ <strong>Total Issues:</strong> 182  
 📦 <strong>Contributed to:</strong> 213  
-</div>
-</div>
-
-
-
 
 <div style="border: 1px solid #3c3c61; border-radius: 10px; padding: 20px; width: 420px;">
 
