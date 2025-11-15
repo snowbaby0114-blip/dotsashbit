@@ -5,19 +5,14 @@ I am a Senior Software Engineer with deep expertise in Backend and Frontend deve
 <div style="display: flex; align-items: center; justify-content: space-between; border: 1px solid #3c3c61; border-radius: 10px; padding: 20px; background: #0d1117;">
 
 <div>
-
-<span style="color:#9ab5ff;">snow's GitHub Stats</span>
+<span style="color:#9ab5ff; font-size:20px;">snow's GitHub Stats</span>
 
 ⭐ <strong>Total Stars Earned:</strong> 256  
 🔧 <strong>Total Commits:</strong> 11,842  
 🔨 <strong>Total PRs:</strong> 3140  
 ❗ <strong>Total Issues:</strong> 182  
 📦 <strong>Contributed to:</strong> 213  
-<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="90" />
 </div>
-
-
-
 </div>
 
 
