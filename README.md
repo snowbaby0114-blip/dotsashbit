@@ -1,12 +1,17 @@
 # Hi, I'm snow! 👋
 
 I am a Senior Software Engineer with deep expertise in Backend and Frontend development for 10+ years of experience.
-
+<div align="center">
 ![snow's Stats](https://github-readme-stats.vercel.app/api?username=snowbaby0114-blip&show_icons=true&theme=tokyonight&hide_title=false&include_all_commits=true&count_private=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=snowbaby0114-blip&layout=compact&theme=tokyonight&langs_count=8)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snowbaby0114-blip&layout=compact&theme=tokyonight&langs_count=10)
+
+</div>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=snowbaby0114-blip&theme=tokyonight&hide_border=false)
+</div>
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing Bachelor of Engineering in Computer Science.
