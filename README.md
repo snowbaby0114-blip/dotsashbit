@@ -21,63 +21,6 @@ I am a Senior Software Engineer with deep expertise in Backend and Frontend deve
 
 </div>
 
-<div style="
-  border: 1px solid #3c3c61;
-  border-radius: 12px;
-  padding: 25px;
-  background: #1a1b27;
-  width: 900px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-">
-
-  <!-- LEFT BLOCK -->
-  <div style="text-align: center; width: 33%;">
-    <div style="font-size: 38px; color: #9ab5ff; font-weight: bold;">428</div>
-    <div style="color: #c2c8ff; margin-top: 5px;">Total Contributions</div>
-    <div style="color: #6df4d2; margin-top: 5px;">Jan 4, 2024 – Present</div>
-  </div>
-
-  <!-- MIDDLE DIVIDER -->
-  <div style="width:1px; height:130px; background:#3c3c61;"></div>
-
-  <!-- CENTER BLOCK -->
-  <div style="text-align: center; width: 33%;">
-    <div style="
-      width: 120px;
-      height: 120px;
-      margin: 0 auto;
-      border: 6px solid #9ab5ff;
-      border-radius: 50%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      font-size: 36px;
-      color: #9ab5ff;
-      font-weight: bold;
-    ">1</div>
-
-    <div style="color: #9ab5ff; margin-top: 12px; font-weight: bold;">
-      Current Streak
-    </div>
-    <div style="color: #6df4d2; margin-top: 5px;">Nov 15</div>
-  </div>
-
-  <!-- RIGHT DIVIDER -->
-  <div style="width:1px; height:130px; background:#3c3c61;"></div>
-
-  <!-- RIGHT BLOCK -->
-  <div style="text-align: center; width: 33%;">
-    <div style="font-size: 38px; color: #9ab5ff; font-weight: bold;">6</div>
-    <div style="color: #c2c8ff; margin-top: 5px;">Longest Streak</div>
-    <div style="color: #6df4d2; margin-top: 5px;">
-      Nov 9, 2024 – Nov 14, 2024
-    </div>
-  </div>
-
-</div>
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=snowbaby0114-blip&theme=tokyonight&hide_border=false)
 
 ## 🚀 About Me
